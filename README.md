@@ -129,10 +129,3 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## **License**
-
-This project is licensed under the [MIT License](LICENSE).
-
---- 
-
-Feel free to customize this as needed for your repository!
