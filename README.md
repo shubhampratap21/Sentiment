@@ -1,7 +1,3 @@
-Here’s a **README.md** template for your project:
-
----
-
 # **Tweet Sentiment Analysis**
 
 A machine learning project that analyzes and predicts the sentiment of tweets. This implementation uses TF-IDF vectorization and a Linear Support Vector Classifier (SVC) to classify tweets into various emotion categories such as happiness, sadness, anger, etc.
