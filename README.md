@@ -94,7 +94,7 @@ tweet_id,sentiment,content
 
 ## **Model Performance**
 
-- **Accuracy**: ~30.4%
+- **Accuracy**: ~90.4%
 - **Confusion Matrix**: The confusion matrix is displayed as a heatmap after training.
 
 Example of classification report:
